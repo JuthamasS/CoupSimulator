@@ -1,0 +1,15 @@
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\bin\Debug\net7.0\MiNiGame.exe
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\bin\Debug\net7.0\MiNiGame.deps.json
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\bin\Debug\net7.0\MiNiGame.runtimeconfig.json
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\bin\Debug\net7.0\MiNiGame.dll
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\bin\Debug\net7.0\MiNiGame.pdb
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.csproj.AssemblyReference.cache
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.AssemblyInfoInputs.cache
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.AssemblyInfo.cs
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.csproj.CoreCompileInputs.cache
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.dll
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\refint\MiNiGame.dll
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.pdb
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\MiNiGame.genruntimeconfig.cache
+C:\Users\monal\source\repos\MiNiGame\MiNiGame\obj\Debug\net7.0\ref\MiNiGame.dll
