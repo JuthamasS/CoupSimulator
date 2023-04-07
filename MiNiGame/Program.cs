@@ -221,6 +221,15 @@ namespace MiNiGame
                 case "help":
                     GetCommand();
                     break;
+                case "i":
+                    Console.WriteLine("income");
+                    break;
+                case "f":
+                    Console.WriteLine("foreign aid");
+                    break;
+                case "t":
+                    Console.WriteLine("tax");
+                    break;
                 default:
                     Console.WriteLine();
                     Console.WriteLine("!?Don't understand the command. Please try another word.");
