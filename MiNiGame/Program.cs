@@ -38,7 +38,13 @@ namespace MiNiGame
 
                 program.PrintAction(false, false, false, false, false, false, false);
 
-                program.playerInput();
+                var result = program.playerInput();
+                if (result == "exit")
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Have a good one.. See you soon~");
+                    break;
+                }
             }
         }
 
@@ -170,21 +176,36 @@ namespace MiNiGame
                 Console.WriteLine("    cp - captain");
             }
         }
-        public void playerInput()
+        public string playerInput()
         {
             string player_input = "";
+            string result_return = "";
 
             Console.WriteLine();
-            Console.WriteLine("Choose and type the action..");
+            Console.WriteLine("Choose your action :");
             player_input = Console.ReadLine();
-            Console.WriteLine("|"); 
-            Console.WriteLine("|");
+            Console.WriteLine(); 
+            Console.WriteLine();
             Console.WriteLine();
 
             switch (player_input)
             {
                 case "exit":
-                    Console.WriteLine("Leave game..");
+                    while (true)
+                    {
+                        Console.WriteLine("Are you sure ? Y/N :");
+                        string ask_leave = Console.ReadLine();
+                        if (ask_leave == "Y" || ask_leave == "y")
+                        {
+                            result_return = "exit";
+                            break;
+                        }
+                        else if (ask_leave == "N" || ask_leave == "n")
+                        {
+                            result_return = "notexit";
+                            break;
+                        }
+                    }
                     break;
                 case "rule":
                     GetGameRoles();
@@ -205,6 +226,8 @@ namespace MiNiGame
                     Console.WriteLine("!?Don't understand the command. Please try another word.");
                     break;
             }
+
+            return result_return;
         }
 
         public void welcomeText()
