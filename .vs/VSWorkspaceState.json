@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MiNiGame"
   ],
-  "SelectedNode": "\\MiNiGame.sln",
+  "SelectedNode": "\\MiNiGame\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
