@@ -1,0 +1,16 @@
+﻿﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+**/.vs
+
+**/node_modules
+**/obj
+**/bin
+
+**/Migrations
+
+**/volumes
+
+**/uploads
+/volumes/mariadb
