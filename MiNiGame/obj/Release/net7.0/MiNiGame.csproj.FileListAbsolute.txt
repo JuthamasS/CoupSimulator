@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.exe
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.deps.json
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.runtimeconfig.json
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.dll
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.pdb
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.AssemblyInfo.cs
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.dll
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\refint\MiNiGame.dll
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.pdb
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\MiNiGame.genruntimeconfig.cache
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\obj\Release\net7.0\ref\MiNiGame.dll

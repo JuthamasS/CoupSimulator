@@ -1,0 +1,5 @@
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.exe
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.dll
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.deps.json
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.runtimeconfig.json
+C:\Users\asus\source\repos\CoupSimulator\MiNiGame\bin\Release\net7.0\MiNiGame.pdb
