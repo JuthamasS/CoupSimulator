@@ -30,12 +30,12 @@ namespace MiNiGame
             
             Program program = new Program();
 
-            program.WelcomeText();
+            //program.WelcomeText();
 
-            program.playerName = program.GetPlayerName();
-            //program.playerName = "Juthamaz";
+            //program.playerName = program.GetPlayerName();
+            program.playerName = "Juthamaz";
 
-            program.GetCommand();
+            //program.GetCommand();
 
             program.RandomRolesStartingGame();
 
@@ -93,25 +93,20 @@ namespace MiNiGame
             if (isPlayerTurn)
             {
                 Console.WriteLine("> " + playerName + "'s turn..");
-
-
                 Console.WriteLine();
                 Console.WriteLine("                      >> Bot <<");
                 Console.WriteLine();
                 Console.WriteLine("                      " + (bot_coin < 2 ? "coin : " : "coins :") + bot_coin);
                 Console.WriteLine("                  " + (bot_influence < 2 ? "bot_influence : " : "bot_influences :") + bot_influence);
-                
                 Console.WriteLine();
                 Console.WriteLine("                =====================");
                 Console.WriteLine();
-
                 Console.WriteLine("                       >> " + playerName + " <<");
                 Console.WriteLine();
                 Console.WriteLine("                  " + (player_index_role[0] == "" ? "     X    " : player_index_role[0]) + " | " + (player_index_role[1] == "" ? "     X    " : player_index_role[1]));
                 Console.WriteLine();
                 Console.WriteLine("                      " + (player_coin < 2 ? "coin : " : "coins :") + player_coin);
                 Console.WriteLine("                  " + (player_influence < 2 ? "bot_influence : " : "bot_influences :") + player_influence);
-
                 Console.WriteLine();
                 Console.WriteLine("                =====================");
                 Console.WriteLine();
@@ -128,10 +123,8 @@ namespace MiNiGame
                 Console.WriteLine();
                 Console.WriteLine("                      " + (bot_coin < 2 ? "coin : " : "coins :") + bot_coin);
                 Console.WriteLine("                  " + (bot_influence < 2 ? "bot_influence : " : "bot_influences :") + bot_influence);
-
                 Console.WriteLine();
                 Console.WriteLine("                =====================");
-                
             }
             Console.WriteLine("---------------------------------------------------");
             Console.WriteLine();
@@ -359,6 +352,16 @@ namespace MiNiGame
                     {
                         bot_action.Add("st");
                         PrintAction(false, true, true, false, false, false);
+                    }
+                    break;
+                case "ex":
+                    if (isPlayerTurn)
+                    {
+
+                    }
+                    else
+                    {
+                        
                     }
                     break;
                 case "p":
